@@ -1,0 +1,18 @@
+Basics
+	1. What is the smaller building block name of React?
+	2. What is the bigger block name?
+	3. What is JSX?
+	4. Why is it recommended to put brackets around JSX?
+	5. How can you close the JSX tag immediately?
+	6. What does Babel convert JSX to after compilation?
+	7. Can element be mutated?
+	8. Name two ways to create a component and explain its syntax.
+	9. Is it necessary to have your component name Capped?
+	10. How do you position components of the app in the document?
+	11. How should components act towards the props?
+	12. What is the name of setting up smth whenever component is first rendered?
+	13. Explain what is lifecycle method, name a few.
+	14. Where can you use "this.state"?
+	15. What are hooks. Name a few you know.
+	16. Write a component to display current time using classes.
+	17. Write a component to display current time using hooks.
